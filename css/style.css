@@ -145,8 +145,8 @@ p {
 
 #nav-menu {
     margin: 0;
-    background: #000;
-    border-color: #000;
+    background: #6d1e03;
+    border-color: #6d1e03;
     border-radius: 0px;
     position: relative;
     z-index: 899;
@@ -164,13 +164,13 @@ p {
 }
 #nav-menu li a:hover,#nav-menu li a:active, #nav-menu li a:focus {
     background: transparent;
-    color: #E589F5;
+    color: #13bbec;
 }
 .hover-li {
     display: block;
     width: 100%;
     height: 1px;
-    background: #9c27b0;
+    background: #b63205;
     position: absolute;
     top: -2%;
     transition:  0.3s ease all;
@@ -405,7 +405,7 @@ p {
     background-size: cover;
 }
 #contact p{
-    color: #fff;
+    color: #cd2029;
 }
 .afsana-style, .afsana-form textarea {
     background: transparent;
@@ -414,7 +414,7 @@ p {
     border-left: 0px;
     border-bottom: 2px solid #fff;
     border-right: 2px solid #fff;
-    color: #fff;
+    color: #cd2029;
     height: auto;
     padding: 0.5em;
     font-size: 1.3em;
@@ -424,14 +424,14 @@ p {
 .afsana-style:focus, .afsana-form textarea:focus {
     outline: none;
     box-shadow: none;
-    border-color: #9c27b0!important;
+    border-color: #20ce6e!important;
 }
 .afsana-btn {
     font-size: 1.5em;
     padding: 0.6em 0;
     width: 100%;
     border-radius: 0;
-    background: #9c27b0;
+    background: #cd2029;
     border-color: #9c27b0;
     margin-top: -15px;
 }
