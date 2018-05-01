@@ -23,18 +23,18 @@
 							Gaia Toronto - Coming Soon!</h1>
 
 			<div class="col-md-12 wow">
-					<div style='background-color:white;color:purple;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Art</div>
-					<div style='background-color:white;color:purple;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Health</div>
-					<div style='background-color:white;color:purple;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Community</div>
-					<div style='background-color:white;color:purple;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Wellness</div>
+					<div style='background-color:white;color:#cd2029;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Art</div>
+					<div style='background-color:white;color:#cd2029;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Health</div>
+					<div style='background-color:white;color:#cd2029;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Community</div>
+					<div style='background-color:white;color:#cd2029;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Wellness</div>
 					<br/>
 					<br/>
-					<div style='background-color:purple;color:white;vertical-align:top;margin-left:10%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Music</div>
-					<div style='background-color:purple;color:white;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Culture</div>
-					<div style='background-color:purple;color:white;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Workshops</div>
+					<div style='background-color:#cd2029;color:white;vertical-align:top;margin-left:10%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Music</div>
+					<div style='background-color:#cd2029;color:white;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Culture</div>
+					<div style='background-color:#cd2029;color:white;vertical-align:top;margin-left:2%;margin-right:2%;display:inline-block;margin-bottom:10px;border-radius:15px;width:20%;padding:5px;'>Workshops</div>
 					<br/>
 					<br/>
-					<div style='background-color:white;color:purple;vertical-align:top;margin-left:70%;display:inline-block;margin-bottom:10px;border-radius:15px;width:30%;padding:10px;font-size:1.2em;'>570 Bloor Street West (basement)</div>
+					<div style='background-color:white;color:#cd2029;vertical-align:top;margin-left:70%;display:inline-block;margin-bottom:10px;border-radius:15px;width:30%;padding:10px;font-size:1.2em;'>570 Bloor Street West (basement)</div>
 
 
 							
@@ -49,7 +49,7 @@
 				<div class="col-md-12 wow fadeInRight">
 
 
-					<div style='background-color:purple;color:white;vertical-align:top;margin-left:10%;margin-right:10%;display:inline-block;margin-bottom:10px;border-radius:15px;width:80%;padding:20px;margin-top:30px;margin-bottom:30px;'>
+					<div style='background-color:#cd2029;color:white;vertical-align:top;margin-left:10%;margin-right:10%;display:inline-block;margin-bottom:10px;border-radius:15px;width:80%;padding:20px;margin-top:30px;margin-bottom:30px;'>
 
 						<h2>Upcoming Events</h2>
 						<br/>
@@ -115,29 +115,6 @@
 		
 
 		
-
-		
-
-		<section id="footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-8">
-						<p class="copyright text-left">Copyright © 2018 www.gaia-toronto.com All rights reserved.</p>
-					</div>
-				</div>
-			</div>
-		</section>
-
-
-
-		<script src="js/modernizr.custom.js"></script>
-		<script src="js/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/jquery.videoBG.js"></script>
-		<script src="js/jquery.sticky-kit.min.js"></script>
-		<script src="js/wow.min.js"></script>
-		<script src="js/kinetic.js"></script>
-		<script src="js/jquery.final-countdown.min.js"></script>
-		<script src="js/script.js"></script>
-	</body>
-</html>
+<?php
+	include 'footer.php';
+?>

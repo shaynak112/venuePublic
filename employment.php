@@ -29,7 +29,7 @@
     foreach($jobPostings as $g)
     {
 
-    	echo "<div style='vertical-align:top;display:inline-block;width:30%;margin-left:1%;margin-right:1%;margin-bottom:20px;padding:10px;border-radius:10px;border:solid white 2px;background-color:purple;color:white;'>";
+    	echo "<div style='vertical-align:top;display:inline-block;width:30%;margin-left:1%;margin-right:1%;margin-bottom:20px;padding:10px;border-radius:10px;border:solid white 2px;background-color:#cd2029;color:white;'>";
     	echo "<h2>" . $g->title . "</h2>";
     	echo "Hourly rate of Pay: $" . $g->rate . "<br/>";
     	echo "Approximate Hours Per Week: " . $g->numHours . "<br/>";
@@ -82,26 +82,6 @@
 
 		
 
-		<section id="footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-8">
-						<p class="copyright text-left">Copyright © 2018 www.gaia-toronto.com All rights reserved.</p>
-					</div>
-				</div>
-			</div>
-		</section>
-
-
-
-		<script src="js/modernizr.custom.js"></script>
-		<script src="js/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/jquery.videoBG.js"></script>
-		<script src="js/jquery.sticky-kit.min.js"></script>
-		<script src="js/wow.min.js"></script>
-		<script src="js/kinetic.js"></script>
-		<script src="js/jquery.final-countdown.min.js"></script>
-		<script src="js/script.js"></script>
-	</body>
-</html>
+<?php
+	include 'footer.php';
+?>

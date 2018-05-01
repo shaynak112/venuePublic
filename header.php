@@ -1,4 +1,4 @@
-<?php $pjGroup = "1";
+<?php $pjGroup = "1,4";
  include '/home/dh_d3m65i/gaia-toronto.com/admin/scripts2/app/views/pjLayouts/pjActionProtect.php'; ?>
 
  <!DOCTYPE html>
@@ -21,4 +21,4 @@
 		<link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic|Cinzel:400,700,900' rel='stylesheet' type='text/css'>
 	</head>
 
-	<body style='background-color:#b88ad2;'>
+	<body style='background-color:#2080ce;'>
